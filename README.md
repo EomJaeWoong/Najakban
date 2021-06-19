@@ -1,7 +1,7 @@
 # ![WebApp](https://iharsh234.github.io/WebApp/images/demo/demo_landing.JPG)
 위에 대표 이미지 삽입하기
 
-# Sub PJT 2 - 제목 미정
+# 나만의 작은 밴드 - 언택트 공연 / 밴드 커뮤니티 서비스
 
 <table>
 <tr>
